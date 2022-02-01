@@ -1,0 +1,5 @@
+export const CONSTANTS = {
+    TOTAL_FRAME_NUMBERS: 11,
+    STRIKE_ROLL: 10,
+    LAST_FRAME: 10
+}
